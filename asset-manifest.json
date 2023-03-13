@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/calculateSensday/static/css/main.b2dd82c3.css",
-    "main.js": "/calculateSensday/static/js/main.e25ae9c6.js",
+    "main.css": "/calculateSensday/static/css/main.25519895.css",
+    "main.js": "/calculateSensday/static/js/main.b7071bf6.js",
     "index.html": "/calculateSensday/index.html",
-    "main.b2dd82c3.css.map": "/calculateSensday/static/css/main.b2dd82c3.css.map",
-    "main.e25ae9c6.js.map": "/calculateSensday/static/js/main.e25ae9c6.js.map"
+    "main.25519895.css.map": "/calculateSensday/static/css/main.25519895.css.map",
+    "main.b7071bf6.js.map": "/calculateSensday/static/js/main.b7071bf6.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2dd82c3.css",
-    "static/js/main.e25ae9c6.js"
+    "static/css/main.25519895.css",
+    "static/js/main.b7071bf6.js"
   ]
 }
